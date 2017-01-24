@@ -1,0 +1,24 @@
+{
+  "name": "aor-language-french",
+  "version": "1.0.0",
+  "description": "French translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marmelab/aor-language-french.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "author": "Julien Demangeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marmelab/aor-language-french/issues"
+  },
+  "homepage": "https://github.com/marmelab/aor-language-french#readme"
+}
