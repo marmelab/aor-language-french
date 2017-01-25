@@ -12,7 +12,7 @@ module.exports = {
             add_filter: 'Ajouter un filtre',
             delete_item: 'Supprimer %{name}',
             create_item: 'Créer %{name}',
-            list_item: 'Liste des "%{name}"',
+            list_item: 'Liste des %{name}',
         },
         message: {
             yes: 'Oui',
@@ -28,11 +28,21 @@ module.exports = {
             next: 'Suivant',
             prev: 'Précédent',
         },
+        auth: {
+            username: 'Identifiant',
+            password: 'Mot de passe',
+            sign_in: 'Connexion',
+            sign_in_error: 'Echec de l\'authentification, merci de réessayer',
+            logout: 'Déconnexion',
+        },
         notification: {
             updated: 'Élement mis à jour',
             created: 'Élement créer',
             deleted: 'Élement supprimé',
             item_doesnt_exist: 'L\'élément n\'existe pas',
+        },
+        validation: {
+            required: 'Ce champ est requis',
         },
     },
 };
