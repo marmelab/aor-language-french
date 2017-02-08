@@ -14,6 +14,12 @@ module.exports = {
             create_item: 'Créer %{name}',
             list_item: 'Liste des %{name}',
         },
+        input: {
+            image: {
+                upload_several: 'Déposez les fichiers à uploader, ou cliquez pour en sélectionner.',
+                upload_single: 'Déposez le fichiers à uploader, ou cliquez pour le sélectionner.',
+            },
+        },
         message: {
             yes: 'Oui',
             no: 'Non',
