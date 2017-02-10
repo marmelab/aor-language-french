@@ -10,9 +10,13 @@ module.exports = {
             cancel: 'Quitter',
             refresh: 'Rafraichir',
             add_filter: 'Ajouter un filtre',
-            delete_item: 'Supprimer %{name}',
-            create_item: 'Créer %{name}',
-            list_item: 'Liste des %{name}',
+        },
+        page: {
+            list: 'Liste des %{name}',
+            edit: '%{name} #%{id}',
+            show: '%{name} #%{id}',
+            create: 'Créer %{name}',
+            delete: 'Supprimer %{name} #%{id}',
         },
         input: {
             image: {
