@@ -10,6 +10,7 @@ module.exports = {
             cancel: 'Quitter',
             refresh: 'Rafraichir',
             add_filter: 'Ajouter un filtre',
+            remove_filter: 'Supprimer ce filtre',
         },
         boolean: {
             true: 'Oui',
