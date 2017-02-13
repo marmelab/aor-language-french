@@ -11,6 +11,10 @@ module.exports = {
             refresh: 'Rafraichir',
             add_filter: 'Ajouter un filtre',
         },
+        boolean: {
+            true: 'Oui',
+            false: 'Non',
+        },
         page: {
             list: 'Liste des %{name}',
             edit: '%{name} #%{id}',
