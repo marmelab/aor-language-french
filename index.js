@@ -52,7 +52,7 @@ module.exports = {
         },
         notification: {
             updated: 'Élément mis à jour',
-            created: 'Élément créer',
+            created: 'Élément crée',
             deleted: 'Élément supprimé',
             item_doesnt_exist: 'L\'élément n\'existe pas',
         },
