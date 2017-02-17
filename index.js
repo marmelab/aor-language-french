@@ -8,7 +8,7 @@ module.exports = {
             create: 'Créer',
             edit: 'Éditer',
             cancel: 'Quitter',
-            refresh: 'Rafraichir',
+            refresh: 'Actualiser',
             add_filter: 'Ajouter un filtre',
             remove_filter: 'Supprimer ce filtre',
         },
@@ -26,13 +26,13 @@ module.exports = {
         input: {
             image: {
                 upload_several: 'Déposez les fichiers à uploader, ou cliquez pour en sélectionner.',
-                upload_single: 'Déposez le fichiers à uploader, ou cliquez pour le sélectionner.',
+                upload_single: 'Déposez le fichier à uploader, ou cliquez pour le sélectionner.',
             },
         },
         message: {
             yes: 'Oui',
             no: 'Non',
-            are_you_sure: 'Êtes vous sûr ?',
+            are_you_sure: 'Êtes-vous sûr ?',
             about: 'Au sujet de',
         },
         navigation: {
@@ -47,13 +47,13 @@ module.exports = {
             username: 'Identifiant',
             password: 'Mot de passe',
             sign_in: 'Connexion',
-            sign_in_error: 'Echec de l\'authentification, merci de réessayer',
+            sign_in_error: 'Échec de l\'authentification, merci de réessayer',
             logout: 'Déconnexion',
         },
         notification: {
-            updated: 'Élement mis à jour',
-            created: 'Élement créer',
-            deleted: 'Élement supprimé',
+            updated: 'Élément mis à jour',
+            created: 'Élément créé',
+            deleted: 'Élément supprimé',
             item_doesnt_exist: 'L\'élément n\'existe pas',
         },
         validation: {
