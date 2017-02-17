@@ -1,6 +1,6 @@
 {
   "name": "aor-language-french",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "French translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
