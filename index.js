@@ -22,6 +22,7 @@ module.exports = {
             show: '%{name} #%{id}',
             create: 'Créer %{name}',
             delete: 'Supprimer %{name} #%{id}',
+            dashboard: 'Tableau de bord',
         },
         input: {
             image: {
