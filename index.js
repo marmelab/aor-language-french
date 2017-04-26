@@ -37,6 +37,7 @@ module.exports = {
             about: 'Au sujet de',
         },
         navigation: {
+            no_results: 'Aucun résultat',
             page_out_of_boundaries: 'La page %{page} est en dehors des limites',
             page_out_from_end: 'Fin de la pagination',
             page_out_from_begin: 'La page doit être supérieure à 1',
@@ -59,6 +60,12 @@ module.exports = {
         },
         validation: {
             required: 'Ce champ est requis',
+            minLength: 'Minimum %{min} caractères',
+            maxLength: 'Maximum %{max} caractères',
+            minValue: 'Minimum %{min}',
+            maxValue: 'Maximum %{max}',
+            number: 'Doit être un nombre',
+            email: 'Doit être un email',
         },
     },
 };
