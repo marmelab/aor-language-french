@@ -57,6 +57,7 @@ module.exports = {
             created: 'Élément créé',
             deleted: 'Élément supprimé',
             item_doesnt_exist: 'L\'élément n\'existe pas',
+            http_error: 'Erreur de communication avec le serveur',
         },
         validation: {
             required: 'Ce champ est requis',
