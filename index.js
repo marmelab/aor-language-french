@@ -11,6 +11,7 @@ module.exports = {
             refresh: 'Actualiser',
             add_filter: 'Ajouter un filtre',
             remove_filter: 'Supprimer ce filtre',
+            back: 'Retour'
         },
         boolean: {
             true: 'Oui',
@@ -23,6 +24,7 @@ module.exports = {
             create: 'Créer %{name}',
             delete: 'Supprimer %{name} #%{id}',
             dashboard: 'Tableau de bord',
+            not_found: 'Page manquante'
         },
         input: {
             image: {
@@ -35,6 +37,7 @@ module.exports = {
             no: 'Non',
             are_you_sure: 'Êtes-vous sûr ?',
             about: 'Au sujet de',
+            not_found: 'L\'URL saisie est incorrecte, ou vous avez suivi un mauvais lien.',
         },
         navigation: {
             no_results: 'Aucun résultat',
